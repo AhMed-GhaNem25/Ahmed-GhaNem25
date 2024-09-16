@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <a href="ahmedghanem.g23@gmail.com" target="_blank">
+  <a href="mailto:ahmedghanem.g23@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ghanem-g23/" target="_blank">
