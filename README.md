@@ -33,21 +33,9 @@
 </div>
 
 ###
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="mailto:ahmedghanem.g23@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" /></a></td>
-      
-      <td><a href="https://www.linkedin.com/in/ghanem-g23/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" /></a></td>
-      
-      <td><a href="https://discord.com/channels/@GHANEM#1686" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo" /></a></td>
-      
-      <td><a href="https://t.me/Ghanmovic" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo" /></a></td>
-      
-      <td><a href="https://x.com/GHaN0M" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" /></a></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+<a href="mailto:ahmedghanem.g23@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/ghanem-g23/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn" /></a> <a href="https://discord.com/channels/@GHANEM#1686" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="Discord" /></a> <a href="https://t.me/Ghanmovic" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="Telegram" /></a> <a href="https://x.com/GHaN0M" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="Twitter" /></a>
+</p>
 
 ###
 
